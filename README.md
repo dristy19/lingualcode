@@ -1,2 +1,3 @@
-# lingualcode
-AI-powered multilingual documentation generator that helps developers translate and localize their GitHub READMEs using Lingo Compiler.
+⚠️ Development starts on Nov 13 as part of The Multilingual Hackathon by Lingo.
+
+Stay tuned for LingualCode — an AI-powered tool to make open-source accessible in every language.
